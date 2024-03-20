@@ -6,7 +6,7 @@ See contents.ipynb:
 
 - **[Image classification with transfer learning](https://colab.research.google.com/drive/1hmxD6mAJaa6iSZd0oQoCSFbwvHmzjoit#scrollTo=3Gl9vcdgAois):** Image classification using transfer learning and fine tuning on the flowers dataset. 
 
-![Image](https://github.com/jabascal/deep-learning-for-computer-vision-with-keras/blob/main/figures/flowers_clf_summary_sc.png){width=400 height=600}
+<img src="https://github.com/jabascal/deep-learning-for-computer-vision-with-keras/blob/main/figures/flowers_clf_summary_sc.png" width="400" height="600">
 
 - **[Image classification with ensemble learning](https://colab.research.google.com/drive/1BZf8HpoKrQquvowe0Yh-68u8Ne5lCjsp#scrollTo=3Gl9vcdgAois):** We combine several models using ensemble methods.  Adversarial attacks and adversarial training: We study adversarial examples and assess the effect of different adversarial attacks and adversaril training.
 
