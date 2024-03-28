@@ -14,5 +14,8 @@ Googlecolab notebooks to solve several computer vision problems using deep learn
 
 - **[Adversarial attacks and adversarial training](https://colab.research.google.com/drive/1Xzt-GrYhE9xF382YJMDKc7SZQ9NA6IyM#scrollTo=HxNmcxcnuQSg):** We study adversarial examples and assess the effect of different adversarial attacks and adversaril training.
 
+<p align="center">
+<img src="https://github.com/jabascal/deep-learning-for-computer-vision-with-keras/blob/main/figures/adv_attack_sc.png" height="200">
+</p>
 
 Juan FPJ Abascal 
